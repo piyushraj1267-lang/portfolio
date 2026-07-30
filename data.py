@@ -31,7 +31,7 @@ PERSONAL_INFO = {
     # Files inside assets folder
     "resume": "assets/resume.pdf",
 
-    "profile_image": "assets/profile.jpeg",
+    "profile_image": "assets/profile.jpg",
     
     "summary": (
         "Motivated and enthusiastic final-year B.Tech Agricultural "
